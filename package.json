@@ -1,6 +1,6 @@
 {
   "name": "linkedin-quizzes-kodyfire",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Practice Linkedin skills assessment tests with linkedin-quizzes kodyfire",
   "main": "build/index.js",
   "scripts": {
@@ -39,5 +39,6 @@
     "@types/pluralize": "0.0.29",
     "@types/prompts": "^2.0.14",
     "copyfiles": "^2.4.1"
-  }
+  },
+  "gitHead": "1fda3df0e89edf35d4d4f3713b91c0df59792900"
 }
