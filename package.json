@@ -1,6 +1,6 @@
 {
   "name": "linkedin-quizzes-kodyfire",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "Practice Linkedin skills assessment tests with linkedin-quizzes kodyfire",
   "main": "build/index.js",
   "scripts": {
